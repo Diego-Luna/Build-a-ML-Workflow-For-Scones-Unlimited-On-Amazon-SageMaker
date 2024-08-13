@@ -1,0 +1,4 @@
+test/
+train/
+project/cifar.tar.gz
+project/cifar-100-python/train
